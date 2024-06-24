@@ -49,6 +49,7 @@ parameter_types! {
 		WithdrawReasons::except(WithdrawReasons::TRANSFER | WithdrawReasons::RESERVE);
 	pub static ExistentialDeposit: u64 = 1;
 }
+
 impl Config for Test {
 	type BlockNumberToBalance = Identity;
 	type Currency = Balances;
