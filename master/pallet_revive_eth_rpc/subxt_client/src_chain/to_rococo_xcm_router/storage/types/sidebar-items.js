@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["delivery_fee_factor"]};

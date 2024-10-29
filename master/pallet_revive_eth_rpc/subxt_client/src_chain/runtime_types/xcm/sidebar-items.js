@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["VersionedAsset","VersionedAssetId","VersionedAssets","VersionedLocation","VersionedResponse","VersionedXcm"],"mod":["double_encoded","v2","v3"]};
